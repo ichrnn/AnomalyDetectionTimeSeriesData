@@ -2,7 +2,7 @@
 
 This project is to build a model for Anomaly Detection in Time Series data for detecting Anomalies in the S&P500 index dataset, which is a popular stock market index for the top 500 US companies, using Deep Neural Network LSTM in Keras with Python code. 
 You must be familiar with Deep Learning which is a sub-field of Machine Learning. Specifically, we’ll be designing and training an LSTM Autoencoder using Keras API, and Tensorflow2 as back-end. 
-Along with this you will also create interactive charts and plots with plotly python and seaborn for data visualization and displaying results within Jupyter Notebook.
+Along with this you will also create interactive charts and plots with plotly python and seaborn for data visualization and displaying results within Jupyter Notebook
 
 # Pre-requisites
  Python
